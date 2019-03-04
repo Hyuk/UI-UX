@@ -7,3 +7,6 @@
 1. [Responsive Navigation](https://github.com/Hyuk/UI-UX/tree/master/responsive-navigation)
 
 1. [Smooth Scroll](https://github.com/Hyuk/UI-UX/tree/master/smooth-scroll)
+
+1. [Simple Modal](https://github.com/Hyuk/UI-UX/tree/master/simple-modal)
+    * https://codepen.io/Middi/pen/rJYOyz
